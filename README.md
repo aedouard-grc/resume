@@ -114,7 +114,7 @@ ServiceNow · Jira · BMC Remedy · PagerDuty · Grafana · Prometheus · LogicM
 
 | Project | Focus | Tech |
 |---------|-------|------|
-| [Healthcare IT Asset Cybersecurity & Risk Triage](https://github.com/antoine-edouard/Healthcare-IT-Asset-Cybersecurity) | Asset triage, risk scoring, vulnerability prioritization | Python, Pandas, Plotly |
+| [Healthcare IT Asset Cybersecurity & Risk Triage](https://github.com/aedouard-grc/Healthcare-IT-Asset-Cybersecurity/blob/main/notebooks/Healthcare_IT_Asset_Cybersecurity_Triage.ipynb) | Asset triage, risk scoring, vulnerability prioritization | Python, Pandas, Plotly |
 | AWS IoT Monitoring & Resilience Platform | Cloud automation, observability | Terraform, AWS, IoT |
 | Enterprise Monitoring & Observability | Centralized dashboards, alerting | CloudWatch, Grafana, Prometheus |
 
@@ -126,7 +126,7 @@ ServiceNow · Jira · BMC Remedy · PagerDuty · Grafana · Prometheus · LogicM
 |--|--|
 | **LinkedIn** | [linkedin.com/in/antoine-edouard](https://www.linkedin.com/in/antoine-edouard/) |
 | **GitHub** | [github.com/antoine-edouard](https://github.com/antoine-edouard) |
-| **Email** | [your-email@example.com](mailto:your-email@example.com) |
+| **Email** | [antoine.edouard.gcs@gmail.com](mailto:antoine.edouard.gcs@gmail.com) |
 | **Location** | Massachusetts, United States |
 
 ---
