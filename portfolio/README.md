@@ -7,7 +7,7 @@ A curated selection of my cybersecurity and infrastructure projects.
 ## 🔐 Healthcare IT Asset Cybersecurity & Risk Triage
 
 [![Repo](https://img.shields.io/badge/View-Repository-181717?logo=github&logoColor=white)](https://github.com/aedouard-grc/Healthcare-IT-Asset-Cybersecurity)
-[![GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github&logoColor=white)](https://github.com/aedouard-grc/Healthcare-IT-Asset-Cybersecurity)
+[![GitHub](https://img.shields.io/badge/Open%20in-GitHub-181717?logo=github&logoColor=white)](https://github.com/aedouard-grc/Healthcare-IT-Asset-Cybersecurity/blob/main/notebooks/Healthcare_IT_Asset_Cybersecurity_Triage.ipynb)
 
 **Overview:** Python-based analysis of a synthetic healthcare IT asset inventory. Combines vulnerability status, patch currency, internet exposure, data sensitivity, and lifecycle stage into a weighted risk score and triage priority.
 
