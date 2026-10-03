@@ -24,10 +24,7 @@ A curated selection of my cybersecurity and infrastructure projects.
 
 ---
 
-<!--
-## Cloud & Infrastructure Projects
-
-### AWS IoT Monitoring & Resilience Platform
+## AWS IoT Monitoring & Resilience Platform
 
 [![Repo](https://img.shields.io/badge/View-Repository-181717?logo=github&logoColor=white)](https://github.com/antoine-edouard/aws-iot-monitoring)
 
@@ -45,7 +42,7 @@ A curated selection of my cybersecurity and infrastructure projects.
 
 ---
 
-### Enterprise Monitoring & Observability
+## Enterprise Monitoring & Observability
 
 [![Repo](https://img.shields.io/badge/View-Repository-181717?logo=github&logoColor=white)](https://github.com/antoine-edouard/enterprise-monitoring)
 
@@ -61,7 +58,6 @@ A curated selection of my cybersecurity and infrastructure projects.
 **Focus Areas:** Monitoring · Observability · Incident Response
 
 ---
--->
 
 ## Contact
 
