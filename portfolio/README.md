@@ -1,4 +1,4 @@
-c# Portfolio
+# Portfolio
 
 A curated selection of my cybersecurity and infrastructure projects.
 
@@ -29,7 +29,7 @@ A curated selection of my cybersecurity and infrastructure projects.
 
 ### AWS IoT Monitoring & Resilience Platform
 
-[![Repo](https://img.shields.io/badge/View-Repository-181717?logo=github&logoColor=white)](https://github.com/antoine-edouard/aws-iot-monitoring)
+[![Repo](https://img.shields.io/badge/View-Repository-181717?logo=github&logoColor=white)](https://github.com/aedouard-grc/aws-iot-monitoring)
 
 **Overview:** Terraform-managed AWS infrastructure for brewery IoT monitoring, automated alerts, and cloud integration.
 
@@ -47,7 +47,7 @@ A curated selection of my cybersecurity and infrastructure projects.
 
 ### Enterprise Monitoring & Observability
 
-[![Repo](https://img.shields.io/badge/View-Repository-181717?logo=github&logoColor=white)](https://github.com/antoine-edouard/enterprise-monitoring)
+[![Repo](https://img.shields.io/badge/View-Repository-181717?logo=github&logoColor=white)](https://github.com/aedouard-grc/enterprise-monitoring)
 
 **Overview:** CloudWatch, Grafana, and Prometheus dashboards improving operational visibility and incident response.
 
@@ -68,5 +68,5 @@ A curated selection of my cybersecurity and infrastructure projects.
 |  |  |
 |--|--|
 | **LinkedIn** | [linkedin.com/in/antoine-edouard](https://www.linkedin.com/in/antoine-edouard/) |
-| **GitHub** | [github.com/antoine-edouard](https://github.com/antoine-edouard) |
+| **GitHub** | [github.com/aedouard-grc](https://github.com/aedouard-grc) |
 | **Email** | [your-email@example.com](mailto:your-email@example.com) |
