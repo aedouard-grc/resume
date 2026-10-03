@@ -1,68 +1,37 @@
 # Portfolio
 
-A curated selection of my cybersecurity and infrastructure projects.
+A curated selection of cybersecurity and infrastructure projects I've built.
 
 ---
 
-## Healthcare IT Asset Cybersecurity & Risk Triage
+## 🔐 Cybersecurity Projects
 
-[![Repo](https://img.shields.io/badge/View-Repository-181717?logo=github&logoColor=white)](https://github.com/antoine-edouard/Healthcare-IT-Asset-Cybersecurity)
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/antoine-edouard/Healthcare-IT-Asset-Cybersecurity/blob/main/notebooks/Healthcare_IT_Asset_Cybersecurity_Triage.ipynb)
+### [Healthcare IT Asset Cybersecurity & Risk Triage](https://github.com/antoine-edouard/Healthcare-IT-Asset-Cybersecurity)
+Python-based risk triage for a synthetic healthcare IT asset inventory — vulnerability scoring, patch analysis, internet exposure, data sensitivity, and prioritized triage.
 
-**Overview:** Python-based analysis of a synthetic healthcare IT asset inventory. Combines vulnerability status, patch currency, internet exposure, data sensitivity, and lifecycle stage into a weighted risk score and triage priority.
-
-**Highlights:**
-- Asset inventory analysis and lifecycle management
-- Vulnerability and patch-based triage
-- Internet exposure and data sensitivity review
-- Interactive Plotly dashboard
-- Executive summary with color-coded severity
-
-**Tech Stack:** Python · Pandas · NumPy · Matplotlib · Plotly
-
-**Focus Areas:** SOC · Vulnerability Management · Asset Triage · GRC
+**Tech:** Python · Pandas · NumPy · Matplotlib · Plotly
+**Focus:** SOC · Vulnerability Management · Asset Triage · GRC
 
 ---
 
-## AWS IoT Monitoring & Resilience Platform
+## ☁️ Cloud & Infrastructure Projects
 
-[![Repo](https://img.shields.io/badge/View-Repository-181717?logo=github&logoColor=white)](https://github.com/antoine-edouard/aws-iot-monitoring)
+### [AWS IoT Monitoring & Resilience Platform](https://github.com/antoine-edouard/aws-iot-monitoring)
+Terraform-managed AWS infrastructure supporting brewery IoT monitoring, automated alerts, and cloud integration.
 
-**Overview:** Terraform-managed AWS infrastructure for brewery IoT monitoring, automated alerts, and cloud integration.
+**Tech:** Terraform · AWS · IoT · Python
+**Focus:** Cloud Automation · Observability · Infrastructure as Code
 
-**Highlights:**
-- Infrastructure as Code with Terraform
-- Automated compliance reporting
-- IoT and PLC integration
-- Cloud modernization for scalability and resilience
+### [Enterprise Monitoring & Observability](https://github.com/antoine-edouard/enterprise-monitoring)
+CloudWatch, Grafana, and Prometheus dashboards improving operational visibility and incident response.
 
-**Tech Stack:** Terraform · AWS · IoT · Python
-
-**Focus Areas:** Cloud Automation · Observability · Infrastructure as Code
+**Tech:** AWS CloudWatch · Grafana · Prometheus
+**Focus:** Monitoring · Observability · Incident Response
 
 ---
 
-## Enterprise Monitoring & Observability
+## 📬 Contact
 
-[![Repo](https://img.shields.io/badge/View-Repository-181717?logo=github&logoColor=white)](https://github.com/antoine-edouard/enterprise-monitoring)
-
-**Overview:** CloudWatch, Grafana, and Prometheus dashboards improving operational visibility and incident response.
-
-**Highlights:**
-- Centralized logging and alerting
-- Reduced incident-response time by 40%
-- Custom dashboards for operational visibility
-
-**Tech Stack:** AWS CloudWatch · Grafana · Prometheus
-
-**Focus Areas:** Monitoring · Observability · Incident Response
-
----
-
-## Contact
-
-|  |  |
-|--|--|
-| **LinkedIn** | [linkedin.com/in/antoine-edouard](https://www.linkedin.com/in/antoine-edouard/) |
-| **GitHub** | [github.com/antoine-edouard](https://github.com/antoine-edouard) |
-| **Email** | [your-email@example.com](mailto:your-email@example.com) |
+- [LinkedIn](https://www.linkedin.com/in/antoine-edouard/)
+- [GitHub](https://github.com/antoine-edouard)
+- [Email](mailto:your-email@example.com)
